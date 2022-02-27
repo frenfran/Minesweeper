@@ -1,1 +1,1 @@
-# Text-based Minesweeper created using C++
+Text-based Minesweeper created using C++
