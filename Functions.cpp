@@ -31,9 +31,9 @@ void instructions () {
     cout << "The objective of the game is to uncover all squares that are not bombs" << endl;
     cout << "Should you uncover a bomb, the game will end automatically" << endl << endl;
     
-    cout << "To uncover a square, type the word 'uncover' followed by the location of the square (i.e. the row number followed by the column number)" << endl;
+    cout << "To uncover a square, type the word 'uncover' followed by the location of the square (i.e. the column letter followed by the row number)" << endl;
     cout << "For example, you may enter: uncover B 5" << endl;
-    cout << "To flag a square, type the word 'flag' followed by the location of the square (i.e. the row number followed by the column number)" << endl;
+    cout << "To flag a square, type the word 'flag' followed by the location of the square (i.e. the column letter followed by the row number)" << endl;
     cout << "For example, you may enter: flag B 5" << endl;
     cout << "To unflag a square, simply flag that sqaure again" << endl << endl;
     
